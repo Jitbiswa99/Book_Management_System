@@ -1,0 +1,15 @@
+body {
+	background-image:
+	url('/images/bookstore.jpg');
+	/* background-repeat:no-repeat;
+	background-position:center;
+	background-size: cover;
+	opacity:0.9; */
+}
+
+.my-card{
+	padding:20px;
+	background:#FFFFFF
+	
+}
+
